@@ -1,7 +1,4 @@
-# ML Fundamentals – Aviation Focus git add README.md
-git commit -m "Add README for regression notebook"
-git push
-
+# ML Fundamentals – Aviation Focus
 
 This repository contains hands-on machine learning projects developed as part of a structured
 ML learning plan with an aviation and operations focus.
@@ -35,7 +32,7 @@ relevant to industries such as aviation, energy, and industrial operations.
   - Logistic Regression (baseline)
   - Random Forest Classifier (final model)
 - Key steps:
-  - Feature selection 
+  - Feature selection and prevention of data leakage
   - Encoding of categorical variables
   - Handling class imbalance
   - Evaluation using confusion matrices, precision, recall, and F1-score
@@ -49,6 +46,7 @@ relevant to industries such as aviation, energy, and industrial operations.
 - Visualizations:
   - Confusion matrix heatmap
   - Precision–Recall curve
+  - ROC curve
   - Feature importance analysis
 - Notes:
   - The final model reflects realistic predictive maintenance trade-offs
@@ -68,4 +66,3 @@ relevant to industries such as aviation, energy, and industrial operations.
 - Notebook 01 completed
 - Notebook 02 completed
 - Notebook 03 (Anomaly Detection) planned
-
