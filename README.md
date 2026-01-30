@@ -1,7 +1,4 @@
-# ML Fundamentals – Aviation Focus git add README.md
-git commit -m "Add README for regression notebook"
-git push
-
+# ML Fundamentals – Aviation Focus git add README.me
 
 This repository contains hands-on machine learning projects developed as part of a structured
 ML learning plan with an aviation and operations focus.
